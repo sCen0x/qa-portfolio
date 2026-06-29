@@ -29,4 +29,4 @@ Postman, Apidoc, Google Таблицы
 ## Артефакты
 
 - [Чек-лист](https://docs.google.com/spreadsheets/d/1dU_SaYpXnsD461HoaQuTbvs9GB7I7FNKDc47LSyXab8/edit?usp=sharing)
-- [Баг-репорты](https://docs.google.com/spreadsheets/d/1dU_SaYpXnsD461HoaQuTbvs9GB7I7FNKDc47LSyXab8/edit?usp=sharing)
+- [Баг-репорты](https://docs.google.com/spreadsheets/d/1dU_SaYpXnsD461HoaQuTbvs9GB7I7FNKDc47LSyXab8/edit?gid=1873037896#gid=1873037896)
