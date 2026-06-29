@@ -4,7 +4,7 @@
  
 ## Стек
  
-Android Studio (эмулятор)
+Android Studio (эмулятор), Google Таблицы
  
 ## Задача
  
