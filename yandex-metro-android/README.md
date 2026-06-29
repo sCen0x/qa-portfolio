@@ -4,7 +4,7 @@
  
 ## Стек
  
-Android Studio (эмулятор), Google Таблицы, mindmap
+Android Studio (эмулятор)
  
 ## Задача
  
