@@ -23,5 +23,5 @@ SQL
 
 ## Артефакты
 
-- [SQL-запросы](./queries.sql`)
+- [SQL-запросы](./queries.sql)
 
