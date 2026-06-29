@@ -27,6 +27,6 @@
  
 ## Контакты
  
-- hh.ru: _ссылка на резюме_
-- Telegram: _@username_
-- Email: _email_
+- hh.ru: _https://tomsk.hh.ru/resume/422b4ab2ff107b993e0039ed1f5654746d3570_
+- Telegram: _@na1ks_
+- Email: _kulo6ut@yandex.ru_
