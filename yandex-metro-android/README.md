@@ -19,11 +19,10 @@ Android Studio (эмулятор), Google Таблицы, mindmap
 - Завёл баг-репорты и подготовил отчёт о тестировании для менеджера
 ## 🐞 Результаты
  
-- Проверок в чек-листах: _N_
-- Найдено дефектов: _M_
+- Проверок в чек-листах: 64
+- Найдено дефектов: 9
 - Вывод по готовности версии к релизу: _заполнить_
 ## 📎 Артефакты
  
 - [Чек-листы (функциональный + регрессионный)](https://docs.google.com/spreadsheets/d/1VRR822jUN2dwddMYxQIlbYCM8LaIFoXHO0Fg0JBilv4/edit?usp=sharing)
-- [Баг-репорты](ссылка)
-- Скриншоты — в папке `/screenshots`
+- [Баг-репорты](https://docs.google.com/spreadsheets/d/15-h1RytptRCLfRAzq5pnQ6iKaW8mgpxfYSklGoXJJv8/edit?usp=sharing)
